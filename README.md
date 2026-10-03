@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of kvothe/keyboard-shortcuts.** Not for installation: use [Packagist](https://packagist.org/packages/kvothe/keyboard-shortcuts) or the [upstream repository](https://github.com/oaklinq/flarum-ext-keyboard-shortcuts).
 
-**0** versions archived · Latest: [`v0.1.0`](https://github.com/flarchive/kvothe-keyboard-shortcuts/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**1** versions archived · Latest: [`v0.1.0`](https://github.com/flarchive/kvothe-keyboard-shortcuts/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2019-03-13 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/kvothe-keyboard-shortcuts/tree/archive/v0.1.0) |
 
 Catalog entry: [packages/kvothe-keyboard-shortcuts.json](https://github.com/flarchive/archive-index/blob/main/packages/kvothe-keyboard-shortcuts.json)
 
